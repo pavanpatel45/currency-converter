@@ -1,7 +1,7 @@
 {
   "name": "currency-conversion",
   "version": "0.1.0",
-  "homepage": "https://pavanpatel45.github.io/my-app",
+  "homepage": "https://pavanpatel45.github.io/currency-converter",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
